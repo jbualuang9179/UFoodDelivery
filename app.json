@@ -1,0 +1,12 @@
+{
+  "name": "UFoodDelivery",
+  "displayName": "UFoodDelivery",
+  "expo": {
+    "name": "UFoodDelivery",
+    "slug": "UFoodDelivery",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
